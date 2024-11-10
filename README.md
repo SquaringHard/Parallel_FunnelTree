@@ -9,5 +9,5 @@ The funnel tree algorithm is an algorithm for finding shortest paths on polyhedr
 - compare length: use flag `LENGTH_COMPARE` when compiling, run getExpectedLength.exe first
 - run dataset 100 times: replace `run` with `repeat` in `main` function in main.cpp
 
-# Contribution
-[My friend](https://github.com/BanAnA9205)
+# Author
+Me and [my friend](https://github.com/BanAnA9205)
